@@ -32,3 +32,11 @@ within the Web3 and decentralized economy.
   "timestamp": "2025-10-27T23:50:00Z",
   "signature": "0xBA5E-F0UNDERS-2025-ONCHAIN-VER1F1ED-EB15E"
 }
+{
+  "builder": "evfdc1",
+  "project": "base-builders-test",
+  "network": "Base",
+  "purpose": "Verification for Builders & Founders on Base",
+  "timestamp": "2025-10-27T23:50:00Z",
+  "signature": "0xBA5E-2025-EVfdC1-ONCHAIN-BUILDERS-VER1F1ED-27OCT"
+}
